@@ -10,24 +10,13 @@
 ## 网络
 ## 面试题
 ## 业余在读
-[人类简史](https://book.douban.com/subject/25985021/)
+| 书名 | 封面 |
+| --- | --- |
+| [人类简史](https://book.douban.com/subject/25985021/) | ![](https://tva1.sinaimg.cn/large/0081Kckwly1gk1rdcxvwkj307i0aumxd.jpg) |
+| [活着](https://book.douban.com/subject/4913064/) | ![](https://tva1.sinaimg.cn/large/0081Kckwly1gk1rcs1a7wj307i0b33yq.jpg) |
+| [小王子](https://book.douban.com/subject/20443559/) | ![](https://tva1.sinaimg.cn/large/0081Kckwly1gk1rc7texfj307i0ay74z.jpg) |
+| [低风险创业](https://book.douban.com/subject/33395019/)  | ![](https://tva1.sinaimg.cn/large/0081Kckwly1gk1rbihndej307i0a4jrj.jpg) |
+| [富爸爸财富自由之路](https://book.douban.com/subject/1004118/) | ![](https://tva1.sinaimg.cn/large/0081Kckwly1gk1re9s0i2j307i0b8gmj.jpg) |
 
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gk1rdcxvwkj307i0aumxd.jpg)
-
-[活着](https://book.douban.com/subject/4913064/)
-
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gk1rcs1a7wj307i0b33yq.jpg)
-
-[小王子](https://book.douban.com/subject/20443559/)
-
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gk1rc7texfj307i0ay74z.jpg)
-
-[低风险创业](https://book.douban.com/subject/33395019/)
-
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gk1rbihndej307i0a4jrj.jpg)
-
-[富爸爸财富自由之路](https://book.douban.com/subject/1004118/)
-
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gk1re9s0i2j307i0b8gmj.jpg)
 ## 程序员生涯
 [作为 IT 行业的过来人，你有什么话想对后辈说的？](https://www.zhihu.com/question/312019918/answer/1494300947)
