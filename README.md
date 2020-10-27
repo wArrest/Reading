@@ -1,6 +1,4 @@
 # 读物整理
-## 需要了解的基础知识
-
 ## PHP
 ## Golang
 [go语言之旅](https://tour.golang.org/)
