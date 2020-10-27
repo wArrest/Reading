@@ -10,6 +10,8 @@
 [图解go的并发编程](https://studygolang.com/articles/13875)
 ## 数据库
 ## 网络
+
+[你该了解的TCP/IP以及HTTP](https://juejin.im/post/6844903565685686280)
 ## 面试题
 ## 程序员生涯
 [作为 IT 行业的过来人，你有什么话想对后辈说的？](https://www.zhihu.com/question/312019918/answer/1494300947)
