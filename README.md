@@ -20,3 +20,4 @@
 
 ## 程序员生涯
 [作为 IT 行业的过来人，你有什么话想对后辈说的？](https://www.zhihu.com/question/312019918/answer/1494300947)
+[DevOps到底是什么意思?](https://zhuanlan.zhihu.com/p/91371659)
