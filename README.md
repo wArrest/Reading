@@ -8,6 +8,8 @@
 [go语言圣经](https://books.studygolang.com/gopl-zh/)
 
 [搞懂golang垃圾回收机制](https://juejin.im/post/6844903917650722829)
+
+[图解go的并发编程](https://studygolang.com/articles/13875)
 ## 数据库
 ## 网络
 ## 面试题
