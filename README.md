@@ -10,6 +10,7 @@
 [图解go的并发编程](https://studygolang.com/articles/13875)
 ## 数据库
 ## 网络
+[任 TCP 虐我千百遍，我仍待 TCP 如初恋](https://www.cnblogs.com/xiaolincoding/p/12638546.html)
 
 [你该了解的TCP/IP以及HTTP](https://juejin.im/post/6844903565685686280)
 ## 面试题
