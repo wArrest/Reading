@@ -23,6 +23,10 @@
 
 [DevOps到底是什么意思?](https://zhuanlan.zhihu.com/p/91371659)
 
+## 其他
+[小聊RTA](https://mp.weixin.qq.com/s?__biz=MzIzNTU0MzEyNw==&mid=2247485567&idx=1&sn=c2c7b1e1ec50a586db607520ef9a68ae&scene=21#wechat_redirect)
+
+
 ## 业余在读
 | 书名 | 封面 |
 | --- | --- |
